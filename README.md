@@ -10,11 +10,13 @@
          subject='subject'
          body ='cover_letter_contents' cover_letter should be like this
 
-"Respected HR Team,\n I am submitting here with my resume for your perusal and favorable consideration for the post of “Software engineer” in your organization.\n Review of my credentials indicates that I am a qualified B.Tech from NATIONAL INSTITUTE OF TECHNOLOGY, possess comprehensive knowledge of C, C++,Data structure, Core java AND Web Designing(intermediate).Literature Survey on Amazon Elastic Compute Cloud(EC2) as my project during academic.\n With exceptional communication and interpersonal skills, my self – confidence, innovative approach and quick adaptability to changing processes and trends have been my biggest assets.\n I am seeking a challenging job that would synergize my skills and experience with the objectives of the organization.\nThe above credentials along with my enclosed resume make me ideally suitable for a position in your organization. I would appreciate an opportunity for a personal interview.\nThanking you in anticipation of a favorable reply.\n\n Yours sincerely\n XYZ"
 
 
 
 [if you get this error(given bellow) go to this url 'https://www.google.com/settings/security/lesssecureapps' and allow 'turn on']
+
+
+
 Traceback (most recent call last):
   File "s1.py", line 22, in <module>
     server.login(fromaddr, passwd)

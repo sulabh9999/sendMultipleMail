@@ -5,8 +5,8 @@ from email.MIMEText import MIMEText
 from email.MIMEBase import MIMEBase
 from email import encoders
  
-fromaddr = 'sulabh.bangalore@gmail.com'#add user email address
-passwd='sulabhbangalore'     #add email password.
+fromaddr = 'myemail@mail.com'#add user email address
+passwd='password'     #add email password.
 filename = "attechments.pdf" #add your doc here
 subject='my subjact'         #add your subject here
 emailFile = 'email_file.txt'

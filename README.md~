@@ -1,5 +1,3 @@
-platform: python 2.7
-
 1. it's bunch of files.
    - 'sendmail.py' is master file.
    - 'target_emails' is file with list od many HRs in companys.
